@@ -7,7 +7,12 @@ layout: default
     <a href="{{ post.url | prepend: site.baseurl }}" class="catalogue-item">
       <div>
         <time datetime="{{ post.date }}" class="catalogue-time">{{ post.date | date: "%B %d, %Y" }}</time>
-        <h1 class="catalogue-title">{{ post.title }}</h1>
+        <div class="nav">
+          <a href='/'>
+            <img src="/assets/apple-touch-icon.png" width="40px" align="left">
+            <h1 class="catalogue-title">{{ post.title }}</h1>
+          </a>
+        </div>
         <div class="catalogue-line"></div>
 
         <p>
