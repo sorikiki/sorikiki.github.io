@@ -1,15 +1,9 @@
 ---
 layout: post
 title: "About"
-author: "Chester"
+author: "Dasol Kim"
 permalink: /about/
 ---
 
-A friend of mine writes short stories. One sunny day, I asked if he wanted a website to showcase his works and he agreed. I decided to use GitHub Pages to host his site. That way he wouldn't have to buy a domain and a server.
-
-While doing some research up on GitHub Pages, I accidentally chanced upon this _simple, blog-aware, static site generator_ called [Jekyll](https://jekyllrb.com/) which works really well with GitHub Pages. I figured it would do just fine for my friend and I set about searching for a pretty theme. I wanted a theme with a _book-ish_ vibe. Unfortunately, most of the themes were too modern. Eventually, I caved and begun working on my own theme. With the help of [Poole](https://github.com/poole/poole), the Jekyll Butler, I was able to build **Tale**.
-
-## Contribute
-Feel free to create an issue or make a pull request on [GitHub](https://github.com/chesterhow/tale).
-
-Thanks for reading!
+## Author
+컴퓨터과학을 복수전공으로 하고 있는 3학년 학부생입니다. 저는 개발자로서 문제해결 능력을 최상으로 끌어올리기 위해 항상 노력하는 사람입니다. 요즈음에는 코틀린과 안드로이드를 공부하면서 유용한 앱을 생산하기 위한 앎의 지식을 확장해 나아가는 중입니다. 남겨주시는 피드백은 언제나 제게 큰 힘이 됩니다. 방문해주셔서 감사합니다!

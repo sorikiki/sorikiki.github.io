@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Pagination Post"
-author: "Chester"
+title: "코틀린 코루틴에 대한 고찰"
+author: "Dasol Kim"
 tags: Tale
 ---
 
