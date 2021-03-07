@@ -11,9 +11,6 @@ footer,
   margin: 0 auto;
   max-width: 800px;
   width: 80%;
-  a {
-    display: flex;
-  }
 }
 
 .nav {
@@ -87,9 +84,4 @@ footer {
   font-family: $serif-secondary;
   padding: 2rem 0;
   text-align: center;
-
-  div {
-    color: $default-color;
-    font-size: .8rem;
-  }
 }
