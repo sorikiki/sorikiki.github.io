@@ -8,7 +8,7 @@ main,
 footer,
 .nav-container {
   display: block;
-  margin: 0 auto;
+  margin: 1rem auto;
   max-width: 800px;
   width: 80%;
 }
@@ -29,6 +29,7 @@ footer,
     display: inline-block;
     margin: 0;
     padding-right: .2rem;
+    font-family: 'Raleway', sans-serif;
 
     &:hover,
     &:focus {

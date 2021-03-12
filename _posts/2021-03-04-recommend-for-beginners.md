@@ -3,7 +3,6 @@ layout: post
 title: "구글 코드랩의 안드로이드 강좌 무료로 이용하기"
 author: "Dasol Kim"
 tags: Tale
-comments: true
 ---
 
 <h1>수강 후기</h1>

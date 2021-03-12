@@ -21,11 +21,16 @@ layout: default
   <div class="post-line"></div>
 
   {{ content }}
+  <script src="https://utteranc.es/client.js"
+        repo="sorikiki/sorikiki.github.io"
+        issue-term="og:title"
+        label="comment"
+        theme="github-light"
+        crossorigin="anonymous"
+        async>
+</script>
 </div>
 
-{% if page.comments %}
-  {% include disqus_comments.html %}
-{% endif %}
 
 <div class="pagination">
   {% if page.next.url %}
