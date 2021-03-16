@@ -37,3 +37,6 @@ paginate:       5
 
 # Excludes
 exclude: [ Gemfile, Gemfile.lock, tale.gemspec ]
+
+# Syntax Hilighting
+highlighter: rouge
